@@ -28,4 +28,3 @@ The final result is a repository with:
 
 * **Review Changes Before Pushing:** Before running `git push`, it's good practice to review changes with `git status` and `git diff`. This helps catch unintended changes and reinforces good version control habits.
 
-* **Consistency:** Maintaining a consistent workflow, even on solo projects, builds a strong foundation for team-ready habits.
